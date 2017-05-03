@@ -1,0 +1,61 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>CodeYourFuture First Week Project</title>
+    </head>
+
+    <body>
+        <h1>I am interested in personal development. </h1>
+
+
+consistent color scheme to link and text
+
+<header> Consistency  </header>
+This is a website where you can find information to develop your personal skills. 
+
+<p>"Contrary to popular belief, Lorem Ipsum is not simply random text.</br>
+It has roots in a piece of classical Latin literature from 45 BC, making </br>
+it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney </br>
+College in Virginia, looked up one of the more obscure Latin words, consectetur, from </br>
+a Lorem Ipsum passage, and going through the cites of the word in classical literature, </br>
+discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 </br>
+of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. </br>
+This book is a treatise on the theory of ethics, very popular during the Renaissance. The first </br>
+line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32."
+</p>
+
+
+/*Article section*/
+
+Article one
+    <title> Consistency </title>
+    summary
+    a link
+
+Article two
+    <title> Motivation </title>
+    summary 
+    a link
+
+Article three
+    <title>Set the goal</title> 
+    summary
+    a link
+
+
+<footer> Won Maung Thein, Software engineer, wonmaungthein@gmail.com, ©wonmaungthein </footer>
+   
+
+find "first-child" pseudo-class and style for first article
+
+fill website with 
+    (http://www.lipsum.com/)
+
+<a href="blog-sketch-week-1.png" target="blank">
+    <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
+  </a>
+
+
+    </body>
+</html>
+
